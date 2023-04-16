@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635805521 source:c:\users\jab\onedrive\documentos\listacircular\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"listaCircular.h"
+
+1635009607 c:\users\jab\onedrive\documentos\listacircular\listacircular.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634930198 source:c:\users\jab\onedrive\documentos\listaencadeadadupla\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaduplaEncad.h"
+	<locale.h>
+
+1634930098 c:\users\jab\onedrive\documentos\listaencadeadadupla\listaduplaencad.h
+

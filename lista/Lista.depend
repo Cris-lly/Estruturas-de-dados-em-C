@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648574134 source:c:\users\jab\onedrive\documentos\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"biblioLista.h"
+
+1635793033 c:\users\jab\onedrive\documentos\lista\bibliolista.h
+

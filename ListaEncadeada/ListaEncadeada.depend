@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648951440 source:c:\users\jab\onedrive\documentos\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioListaEncad.h"
+
+1648950059 c:\users\jab\onedrive\documentos\listaencadeada\bibliolistaencad.h
+

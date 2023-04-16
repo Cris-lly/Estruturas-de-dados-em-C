@@ -4,9 +4,9 @@
 
 //----programa de cadastro de alunos-----
 //TIPO DE DADO ARMAZENADO NA LISTA
-/*esse Ã© aquele dado que Ã© utilizado
+/*esse é aquele dado que é utilizado
 na lista encadeada, no qual armazena duas coisas,
-o dado e o ponteiro para o prÃ³ximo elemento da lista.
+o dado e o ponteiro para o próximo elemento da lista.
 */
 typedef struct aluno{
     char nome[30];
@@ -18,9 +18,9 @@ typedef struct lista{
     struct aluno dados[MAX];
 }Lista;
 
-//protÃ³tipo das funÃ§Ãµes:
+//protótipo das funções:
 Lista* criaLista();
-//inserÃ§Ã£o
+//inserção
 int inserirDadosInicio(Lista* li, DadosAlunos Alunos);
 int inserirDadosMeio(Lista* li, DadosAlunos Alunos);
 int inserirDadosFim(Lista* li, DadosAlunos Alunos);
@@ -29,7 +29,7 @@ int tamanho(Lista* li);
 int listaCheia(Lista* li);
 int listaVazia(Lista* li);
 int BuscaElemAluno(Lista* li, int alunoMat, DadosAlunos *ponteiro);
-//remoÃ§Ã£o
+//remoção
 int RemoveInicio(Lista* li);
 int RemoveMeio(Lista* li, int alunoMat);
 int Removefim(Lista* li);
